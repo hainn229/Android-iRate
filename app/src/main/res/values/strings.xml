@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">i-Rate</string>
+
+    <string name="nameerror">Enter a valid restaurant name</string>
+    <string name="addresserror">Enter a valid address</string>
+    <string name="timeerror">Enter a valid time</string>
+    <string name="dateerror">Enter a valid date</string>
+    <string name="ownererror">Enter a valid name</string>
+
+    <string name="sp_type">Type</string>
+    <string name="sp_cost">Cost</string>
+    <string name="sp_service">Service Rate</string>
+    <string name="sp_food">Food Rate</string>
+    <string name="sp_clean">Clean Rate</string>
+
+    <string-array name="spinner_type">
+        <item value="Grill">Grill</item>
+        <item value="Bar">Bar</item>
+        <item value="Coffee">Coffee</item>
+        <item value="Seafood">Seafood</item>
+        <item value="Fastfood">Fastfood</item>
+    </string-array>
+
+    <string-array name="spinner_cost">
+        <item value="$">$</item>
+        <item value="$$">$$</item>
+        <item value="$$$">$$$</item>
+        <item value="$$$$">$$$$</item>
+        <item value="$$$$$">$$$$$</item>
+    </string-array>
+
+    <string-array name="spinner_service">
+        <item value="1">Bad</item>
+        <item value="2">Fair</item>
+        <item value="3">Normal</item>
+        <item value="4">Good</item>
+        <item value="5">Excellent</item>
+    </string-array>
+
+    <string-array name="spinner_food">
+        <item value="1">Bad</item>
+        <item value="2">Fair</item>
+        <item value="3">Normal</item>
+        <item value="4">Good</item>
+        <item value="5">Excellent</item>
+    </string-array>
+
+    <string-array name="spinner_clean">
+        <item value="1">Bad</item>
+        <item value="2">Fair</item>
+        <item value="3">Normal</item>
+        <item value="4">Good</item>
+        <item value="5">Excellent</item>
+    </string-array>
+</resources>
